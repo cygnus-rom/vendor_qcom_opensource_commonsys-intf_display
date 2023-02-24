@@ -77,6 +77,7 @@
 #define QTI_CUSTOM_CONTENT_METADATA 10029
 // Video transcode metadata stat
 #define QTI_VIDEO_TRANSCODE_STATS 10030
+#define QTI_CRC_BUFFER 10031
 // Early Notify line count
 #define QTI_EARLYNOTIFY_LINECOUNT 10031
 // Used to indicate to framework that internal definitions are used instead
